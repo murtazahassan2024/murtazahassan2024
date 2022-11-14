@@ -1,5 +1,5 @@
 ### Hi there Forks 👋
-     __            
+                
 w  c(..)o   (     🎓 BA in Computer Science @DePauw University
  \__(-)    __)    ✨ Current SWE Intern @Moser Consulting
      /\   (       ✈️ Traveling around 
