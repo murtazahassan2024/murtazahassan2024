@@ -1,9 +1,4 @@
 ### Hi there Forks 👋
-
-✨ Current SWE Intern @Moser Consulting
- 
-📬 Always open to new opportunities
-
      __            
 w  c(..)o   (     🎓 BA in Computer Science @DePauw University
  \__(-)    __)    ✨ Current SWE Intern @Moser Consulting
