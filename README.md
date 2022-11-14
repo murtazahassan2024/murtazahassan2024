@@ -1,14 +1,13 @@
 ### Hi there Forks 👋
                 
-w  c(..)o   (     🎓 BA in Computer Science @DePauw University
- \__(-)    __)    ✨ Current SWE Intern @Moser Consulting
-     /\   (       ✈️ Traveling around 
-    /(_)___)      🥐 Self Taught
-   w /|           🎮 Playing Games
-    | \           📬 Always open to new opportunities
-   m  m           
-
-LinkedIn: https://www.linkedin.com/in/murtazahassan2024/
+###      🎓 BA in Computer Science @DePauw University
+###      ✨ Current SWE Intern @Moser Consulting
+###      ✈️ Traveling around 
+###      🥐 Self Taught
+###      🎮 Playing Games
+###      📬 Always open to new opportunities
+     
+### LinkedIn: https://www.linkedin.com/in/murtazahassan2024/
 
 
     
