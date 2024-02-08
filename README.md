@@ -1,7 +1,8 @@
 ### Hi there Forks 👋
                 
-###      🎓 BA in Computer Science @DePauw University
-###      ✨ Former SWE Intern @Moser Consulting
+###      🎓 BA in Computer Science @ DePauw University
+###      ✨ SWE Intern @ Rose-Hulman Ventures
+###      ✨ Former SWE Intern @ Moser Consulting
 ###      ✈️ Traveling around 
 ###      🥐 Self Taught
 ###      🎮 Playing Games
